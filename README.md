@@ -1,5 +1,5 @@
 # Temu scraper
-Interested in using this scraper? Get it here: [Temu scraper](https://apify.com/curious_coder/temu-scraper)
+Interested in using this scraper? Get it here: [Temu scraper](https://apify.com/curious_coder/temu-scraper?fpr=ve081&fp_sid=github_temu-scraper)
 ## How it works
 
 
